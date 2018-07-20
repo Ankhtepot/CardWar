@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CardWar.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="player1name" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">def</Value>
+    </Setting>
+    <Setting Name="player2name" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">def</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
